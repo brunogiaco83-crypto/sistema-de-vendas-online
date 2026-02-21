@@ -1,4 +1,4 @@
-📍 Turismo Timon
+📍 Timon Turismo
 
 Aplicativo de turismo desenvolvido para promover os atrativos turísticos, culturais e gastronômicos do município de Timon – MA.
 
